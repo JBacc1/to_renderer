@@ -6,6 +6,7 @@ Un script pour automatiser des modifications de fichiers. Initialement conçu po
 N'utilisez cet outil que pour modifier des fichiers localement. **N'approchez pas les fichiers générés par cette bibliothèque des api de contribution à OpenStreetMap, les informations de modifications ne sont pas générées !**
 
 # Utilisation
+Nécessite les packages pyOsmData et osmxml_routines disponibles ici : https://github.com/JBacc1/pyOsmData
 
 `python to_renderer.py file.osm`
 
