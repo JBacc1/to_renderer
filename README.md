@@ -6,7 +6,7 @@ Un script pour automatiser des modifications de fichiers. Initialement conçu po
 N'utilisez cet outil que pour modifier des fichiers localement. **N'approchez pas les fichiers générés par cette bibliothèque des api de contribution à OpenStreetMap, les informations de modifications ne sont pas générées !**
 
 # Utilisation
-Nécessite les packages pyOsmData et osmxml_routines disponibles ici : https://github.com/JBacc1/pyOsmData
+Nécessite les packages pyOsmData et osmxml_routines disponibles ici : https://github.com/JBacc1/pyOsmData
 
 `python to_renderer.py file.osm`
 
@@ -23,4 +23,5 @@ offset.txt : `node 3046370547 10 50` (delta lon,delta lat, en mètres)
 
 # État des lieux
 
-Les exemples restent à venir…
+Les exemples détaillés restent à faire.  
+Ce script a été utilisé pour la réalisation d'une carte de randonnée autour de Samoëns : [http://randocarto.fr/demo/Samoens_A1_400dpi.png](http://randocarto.fr/demo/Samoens_A1_400dpi.png)
